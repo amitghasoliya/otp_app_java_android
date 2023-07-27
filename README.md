@@ -1,2 +1,13 @@
 # Otp_app
- otp based login app written in java
+
+Functionalities:
+
+•Authentication using OTP
+
+Technology :
+
+•Java •XML •Firebase
+
+Description :
+
+A Kotlin application which authenticates the phone number by using otp.
